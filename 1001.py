@@ -1,3 +1,5 @@
+# 害死人不偿命的(3n+1)猜想
+
 n = int(input())
 step = 0
 while n > 1:
